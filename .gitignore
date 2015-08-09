@@ -1,0 +1,6 @@
+.vs
+*.suo
+*.db
+twentyminute/bin
+twentyminute/obj
+twentyminute/publish
